@@ -1,0 +1,7 @@
+{
+  "name": "Ace Buddy AI",
+  "description": "Your friendly AI companion for schoolwork, practice tests, and UK exam planning across all subjects. Get instant help, detailed solutions, and personalized study plans in a child-friendly environment.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
